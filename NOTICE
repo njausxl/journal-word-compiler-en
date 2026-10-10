@@ -1,0 +1,7 @@
+Journal Word Compiler for English Manuscripts
+Repository: https://github.com/njausxl/journal-word-compiler-en
+
+Required Notice: Copyright 2026 KaguraNanaga. Original project: https://github.com/KaguraNanaga/format-agent-skill
+
+This repository depends on format-agent-skill but does not vendor that engine.
+The upstream project is licensed under the PolyForm Noncommercial License 1.0.0.

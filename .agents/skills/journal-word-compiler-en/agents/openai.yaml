@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Journal Word Compiler"
+  short_description: "Format English manuscripts from official journal templates"
+  default_prompt: "Use $journal-word-compiler-en to format my English DOCX from an official journal template and submission guide."
